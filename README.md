@@ -13,7 +13,7 @@ Installation & Usage
 ------------
 
 ```
-git clone https://github.com/maurosoria/dirsearch.git
+git clone https://github.com/thehacks20/dirsearch.git
 cd dirsearch
 python3 dirsearch.py -u <URL> -e <EXTENSION>
 ```
